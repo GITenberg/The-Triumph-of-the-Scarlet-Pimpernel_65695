@@ -1,0 +1,30 @@
+_repo: The-Triumph-of-the-Scarlet-Pimpernel_65695
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Orczy, Emmuska Orczy, Baroness
+    aliases:
+    - Orczy, Baroness Emmuska
+    - Barstow, Montagu, Mrs.
+    birthdate: 1865
+    deathdate: 1947
+    gutenberg_agent_id: '45'
+    url: http://www.gutenberg.org/2009/agents/45
+    wikipedia: https://en.wikipedia.org/wiki/Baroness_Orczy
+description: ''
+gutenberg_issued: '2021-06-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65695'
+  lccn: '23001202'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Adventure stories'
+- !lcc 'PR'
+- !lcsh 'Blakeney, Percy, Sir (Fictitious character) -- Fiction'
+- GITenberg
+title: The Triumph of the Scarlet Pimpernel
+url: http://www.gutenberg.org/ebooks/65695
